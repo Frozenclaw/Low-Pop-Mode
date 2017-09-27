@@ -1,0 +1,6 @@
+modEntry = {
+	FileHooks = "lua/lowpop/FileHooks.lua",
+	Priority = 35
+}
+
+log("Entry a ok")
